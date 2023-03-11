@@ -18,6 +18,7 @@ AllMarket:
   The last type of user is the admin which has all the acces to the web app, he has CRUD acces, meaning he can add/update/delete the users/products which are posted by the farmers, also he can decide which product is visible by the buyers. If the admin makes any  updates to a product or any othe action which can affect the farmer, he can see with the help of the notification function. 
   
   Technologies used in the creation of AllMarket:
+  
      - PHP Vanilla
      - MariaDB
      - Bootstrap
