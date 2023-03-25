@@ -47,7 +47,7 @@ The link to the project: https://github.com/CardosDAN/CleanCar/tree/main
 
 🔭 I’m currently working on creating a ToDo web app using the technologies mentioned below.
  
-🌱 I’m currently learning SpringBoot, React and MongoDB.
+🌱 I’m currently learning SpringBoot, React, MongoDB, NestJS and Prisma.
 
 📫 How to reach me:
 My email address cardosdan08@gmail.com
