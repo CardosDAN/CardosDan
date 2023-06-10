@@ -53,7 +53,7 @@ CleanCar:
   
  The link to the project: https://github.com/CardosDAN/CleanCar/tree/main
 
-Simulation of the Soral System
+Simulation of the Solar System
 
 This application provides users with an engaging and educational experience, allowing them to explore and better understand the structure and motion of celestial bodies within our solar system. Through immersive 3D graphics and interactive features, users can navigate through the solar system, zoom in on planets, and observe their movement in real-time. 
 
