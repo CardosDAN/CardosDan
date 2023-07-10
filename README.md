@@ -68,6 +68,12 @@ ToDo app
 
 This aplication is a simple implementation of a todo web app. It has two types of users, the simple user and the admin. The purpose of this app is to kepp track of you're tasks day. It has user login, users roles , task management, task categorization, task filtering and sorting, admin dashboard.
 
+Technologies used:
+- Spring Boot
+- Ajax
+- MariaDB
+- Bootstrap
+
 link: https://github.com/CardosDAN/javaHomeworkOne
  
 🔭 I’m currently working on creating a web app using the technologies mentioned below.
