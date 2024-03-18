@@ -1,6 +1,3 @@
-About me:
-  Graduate from the technical university from Cluj-Napoca - Northern University Center in Baia Mare, who possesses excellent analytical, project management and teamwork skills acquired during my university studies. I am an energetic person; I really like to chat with people around me and learn new things every day.
-
 Skills:
 - Programing in PHP
 - Programing in Python
